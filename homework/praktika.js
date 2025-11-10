@@ -120,3 +120,5 @@ year = prompt("Enter year:");
 console.log(`Next date is: ${NextDate(Number(day), Number(month), Number(year))}`);
 
 alert("Check the console for results of the tests.");
+
+// I was hella bored so I decided to 
